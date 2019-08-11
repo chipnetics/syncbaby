@@ -1,4 +1,4 @@
-# SyncBaby - SNES Adapter
+# SyncBaby - SNES VGA Adapter
 
 
 **View this project writeup at https://chipnetics.com/projects/hw/syncbaby/**
